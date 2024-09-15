@@ -22,15 +22,13 @@
 - **Containerization and CI/CD**: Docker, Docker Compose, CI/CD processes, Kubernetes
 - **Network Technologies**: Principles of network operation, main network protocols
 
-I am currently studing at the 21 Programming school by Sberbank. 
+In Go, I implement authentication systems with JWT, gRPC services, secure HTTP(S) APIs, asynchronous communication systems, and order processing services with PostgreSQL/MySQL/SQLite3. I optimize application performance using unit and integration tests, golint, and go vet.
 
-In Go, I implement authentication systems with JWT, gRPC services, secure HTTP(S) APIs, asynchronous communication systems, order processing services with PostgreSQL/MySQL/SQLite3. I optimize application performance using unit and integration tests, golint, go vet. 
+In C, I developed interactive applications, Unix terminal games, and my own libraries.
 
-In C, I developed interactive applications, Unix terminal games and my own libraries. 
+I use Python to write and understand scripts for system process automation and to integrate with APIs of different services.
 
-I use Python to write and understand scripts for system processes automatization and API of different services which I would like to integrate with. 
-
-I configure Docker, CI/CD with GitHub Actions.
+I configure Docker and CI/CD with GitHub Actions.
 
 ## My projects
 
@@ -48,4 +46,4 @@ I configure Docker, CI/CD with GitHub Actions.
 [telegram_link]: https://t.me/volchok_96
 [telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
 
-- Email: [kzakharova96@yandex.com](mailto:89057242425@mail.ru)
+- Email: [kzakharova96@yandex.com](mailto:kzakharova96@yandex.com)
