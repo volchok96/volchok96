@@ -1,7 +1,7 @@
 # Hello, I'm Кaterina!
 
 ## About me
-- 🌱 I’m currently Junior Golang developer and student of "School 21 by Sber" in Moscow.
+- 🌱 I’m currently student of "School 21 by Sber" in Moscow and trainee in Wildberries Tech.
 - 🌱 I’m currently learning Golang / PostgreSQL / DevOps
 
 <p align="left">
@@ -28,13 +28,13 @@
 
 - **Programming Languages**: Golang, C, Python
 - **Databases**: SQL, PostgreSQL, MySQL, SQLite3
-- **Testing**: Unit tests, Integration tests
+- **Testing**: Unit tests, Integration tests, Stress tests
 - **Algorithms and Data Structures**: Basic algorithms and data structures
 - **System Administration**: Bash, Linux, MacOS
-- **Containerization and CI/CD**: Docker, Docker Compose, CI/CD processes, Kubernetes
+- **Containerization and CI/CD**: Docker, Docker Compose, CI/CD processes, Kubernetes, Kafka, NATS-streaming
 - **Network Technologies**: Principles of network operation, main network protocols
 
-In Go, I implement authentication systems with JWT, gRPC services, secure HTTP(S) APIs, asynchronous communication systems, and order processing services with PostgreSQL/MySQL/SQLite3. I optimize application performance using unit and integration tests, golint, and go vet.
+In Go, I implement authentication systems with JWT, gRPC services, secure HTTP(S) APIs, asynchronous communication systems, and order processing services with PostgreSQL/MySQL/SQLite3. I optimize application performance using unit and integration tests, golint, and go vet. I use external APIs in my projects and write my own APIs using Swagger.
 
 In C, I developed interactive applications, Unix terminal games, and my own libraries.
 
