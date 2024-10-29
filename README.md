@@ -1,7 +1,7 @@
 # Hello, I'm Кaterina!
 
 ## About me
-- 🌱 I’m currently student of "School 21 by Sber" in Moscow and trainee in Wildberries Tech.
+- 🌱 I’m currently student of "School 21 by Sber" in Moscow and Junior Golang Developer in Wildberries Tech (WB PRO Team).
 - 🌱 I’m currently learning Golang / PostgreSQL / DevOps
 
 <p align="left">
