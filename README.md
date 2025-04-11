@@ -1,8 +1,8 @@
 # Hello, I'm Кaterina!
 
 ## About me
-- 🌱 I’m currently student of "School 21 by Sber" in Moscow and Junior Golang Developer in Wildberries Tech (WB PRO Team).
-- 🌱 I’m currently learning Golang / PostgreSQL / DevOps
+- 🌱 I’m currently student of "School 21 by Sber" in Moscow and Golang Developer in Wildberries & Russ.
+- 🌱 I’m currently learning Golang / PostgreSQL / QA
 
 <p align="left">
   <img alt="Top Langs" width=41% src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=volchok96&theme=default" />
@@ -27,20 +27,12 @@
 
 
 - **Programming Languages**: Golang, C, Python
-- **Databases**: SQL, PostgreSQL, MySQL, SQLite3
-- **Testing**: Unit tests, Integration tests, Stress tests
+- **Databases**: SQL, PostgreSQL, MySQL, SQLite3, Reindexer
+- **Testing**: Unit tests, Integration tests, Stress tests, E2E
 - **Algorithms and Data Structures**: Basic algorithms and data structures
 - **System Administration**: Bash, Linux, MacOS
-- **Containerization and CI/CD**: Docker, Docker Compose, CI/CD processes, Kubernetes, Kafka, NATS-streaming
+- **Containerization and CI/CD**: Docker, Docker Compose, CI/CD processes, Kafka, NATS-streaming
 - **Network Technologies**: Principles of network operation, main network protocols
-
-In Go, I implement authentication systems with JWT, gRPC services, secure HTTP(S) APIs, asynchronous communication systems, and order processing services with PostgreSQL/MySQL/SQLite3. I optimize application performance using unit and integration tests, golint, and go vet. I use external APIs in my projects and write my own APIs using Swagger.
-
-In C, I developed interactive applications, Unix terminal games, and my own libraries.
-
-I use Python to write and understand scripts for system process automation and to integrate with APIs of different services.
-
-I configure Docker and CI/CD with GitHub Actions.
 
 ## My projects
 
