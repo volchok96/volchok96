@@ -1,8 +1,8 @@
 # Hello, I'm Кaterina!
 
 ## About me
-- 🌱 I’m currently student of "School 21 by Sber" in Moscow and Golang Developer in Wildberries & Russ.
-- 🌱 I’m currently learning Golang / PostgreSQL / QA
+- 🌱 I’m currently student of "School 21 by Sber" in Moscow and Golang Developer in SmartWay.
+- 🌱 I’m focused on SDET & AI/ML now.
 
 <p align="left">
   <img alt="Top Langs" width=41% src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=volchok96&theme=default" />
