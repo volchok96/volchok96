@@ -1,7 +1,7 @@
 # Hello, I'm Кaterina!
 
 ## About me
-- 🌱 I’m currently student of "School 21 by Sber" in Moscow and AI/ML Engineeer in SmartWay.
+- 🌱 I’m currently student of "School 21 by Sber" in Moscow and AI/ML Engineer in SmartWay.
 - 🌱 Ex-Go Developer/SDET in Wildberries & Russ.
 
 <p align="left">
